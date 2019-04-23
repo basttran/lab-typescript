@@ -1,0 +1,10 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "removeComments": true
+  },
+  "files": [
+    "./main.ts",
+    "./todoInterface.ts"
+  ]
+}
